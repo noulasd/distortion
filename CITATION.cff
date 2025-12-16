@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you want to refer to our work, better cite the research article"
+authors:
+  - family-names: Andrusov
+    given-names: Nikita
+  - family-names: Büyüksimkeşyan
+    given-names: Sevag
+  - family-names: Noulas
+    given-names: Dimitrios
+  - family-names: Pazuki
+    given-names: Fabien
+    orcid: https://orcid.org/0000-0002-7715-4783
+  - family-names: Umut Kazancıoğlu
+    given-names: Mustafa
+    orcid: https://orcid.org/0009-0004-4207-4136
+  - family-names: Vilà-Casadevall
+    given-names: Jordi
+    orcid: https://orcid.org/0009-0005-1644-3791
+title: "Distortion Maps for Elliptic Curves over Finite Fields"
+
